@@ -4,4 +4,4 @@ Authors : Darille B. Galleros, Jenesis R. Mouit, Mark Jade V. Banguis
 
 Note: 
 # "Kopya lang kabalo ko na lisod ang program"
-# "E revise ang code kay under development pa sija, Good Luck"
+# "E revise lang ang code kay under development pa sija, Good Luck"
